@@ -1,4 +1,4 @@
-Ball Rotation Using Quternion
+Ball Rotation Using Quaternion
 ====================
 
 Part 1 Rendering a textured sphere
